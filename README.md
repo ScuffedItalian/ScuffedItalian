@@ -1,6 +1,5 @@
 I make beatsaber maps
-hit me up if you wanna collab: Douleur#1389
-TS/JS enjoyer
+I contribute to MapLock & Heck+
 
 <!---
 ScuffedItalian/ScuffedItalian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
