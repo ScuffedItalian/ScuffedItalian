@@ -1,5 +1,5 @@
-I make beatsaber maps
-I contribute to MapLock & Heck+
+Java, C#, & JS Dev
+BeatMapper
 
 <!---
 ScuffedItalian/ScuffedItalian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
